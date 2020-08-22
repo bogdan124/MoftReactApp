@@ -1,0 +1,47 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+.Moft-Buttons{
+  height: 75px; 
+  line-height: 75px;
+}
+
+.Moft-footer{
+  visibility: visible; 
+  animation-duration: 1.5s;
+  animation-name: fadeInUp;
+}
+.Moft-footer-Prime{
+  background-color: white;
+}
+.footer-social-links.mb-30.mb-xs-60 {
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+.footer{
+  background-color:#252525;
+}
+.setTopMargin{
+  margin-top: 1000px;
+}
